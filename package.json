@@ -1,0 +1,24 @@
+{
+  "name": "produtividade-com-vscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint index.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoferrari-projects/Produtividade-com-Vscode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagoferrari-projects/Produtividade-com-Vscode/issues"
+  },
+  "homepage": "https://github.com/tiagoferrari-projects/Produtividade-com-Vscode#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
